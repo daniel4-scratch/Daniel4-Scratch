@@ -1,6 +1,6 @@
 ### Hi there 👋
-[
-]()
+
+[![Banner](https://daniel4-scratch.github.io/Daniel4-Scratch/Daniel4-Scratch.png)](https://daniel4-scratch.github.io)
 <!--
 **Daniel4-Scratch/Daniel4-Scratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
