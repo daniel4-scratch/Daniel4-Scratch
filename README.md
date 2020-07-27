@@ -1,6 +1,9 @@
 ### Hi there 👋
  🔭 I’m currently working on SnapCups
+ 
  🌱 I’m currently learning Python
+ 
+ Check meowt on [Glitch](https://glitch.com/@db4) too!
 <!--
 **Daniel4-Scratch/Daniel4-Scratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
