@@ -5,4 +5,3 @@ I'm **Daniel4-Scratch** also know as danielthebanana4.
 
 :banana: Working on SnapForks, ScratchX-Mods and more! :rat:
 
-:email: Get in contact with me on github! *Preferably on my main site on issues*
