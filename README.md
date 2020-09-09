@@ -1,3 +1,4 @@
+[![GitHub followers](https://img.shields.io/github/followers/Daniel4-Scratch?label=Followers&style=social)](https://github.com/Daniel4-Scratch?tab=followers)
 # Hai there!
 I'm **Daniel4-Scratch** also know as danielthebanana4.
 
