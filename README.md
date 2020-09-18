@@ -14,11 +14,11 @@ Event[onLaunch]:(
 ```
 Programs I most use in order.
 <ul>
-  <li>CSS</li>
-  <li>HTML</li>
+  <li>CSS (Expert!)</li>
+  <li>HTML (Expert!)</li>
   <li>JavaScript and JSON</li>
   <li>Python</li>
-  <li><a href="https://dpla-s.github.io/about" target="_newtab">Cope/DPLA</a></li>
+  <li><a href="https://dpla-s.github.io/about" target="_newtab">Cope/DPLA</a> ;)</li>
 </ul>
 
 [![GitHub followers](https://img.shields.io/github/followers/Daniel4-Scratch?label=Followers&style=social)](https://github.com/Daniel4-Scratch?tab=followers)
