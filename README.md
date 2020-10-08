@@ -1,5 +1,5 @@
 # Hai there!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-scratch&theme=merko)](#)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact" />
 
 I'm **Daniel4-Scratch** also know as danielthebanana4. I know .py, .html, .css and more
 
