@@ -1,6 +1,9 @@
 # Hai there!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact" />
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SnapForks&repo=SnapForks)](https://github.com/SnapForks/SnapForks)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel4-Scratch&repo=JuiceBox)](https://github.com/SnapForks/SnapForks)
+
 I'm **Daniel4-Scratch** also know as danielthebanana4. I know .py, .html, .css and more
 
 *Needs help styling xml*
