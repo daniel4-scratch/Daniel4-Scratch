@@ -21,7 +21,7 @@ Programs I most use in order.
 <ul>
   <li>CSS (Expert!)</li>
   <li>HTML (Expert!)</li>
-  <li>JavaScript and JSON</li>
+  <li>JavaScript and JSON (<b>Noob</b>)</li>
   <li>Python</li>
   <li><a href="https://dpla-s.github.io/about" target="_newtab">Cope/DPLA</a> ;)</li>
 </ul>
