@@ -1,5 +1,5 @@
 <img src="https://u.cubeupload.com/DanielBanana4/DanielThebanana4.png">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact&theme=vue" /> <img src="https://github-readme-stats.vercel.app/api?username=daniel4-scratch&show_icons=true&theme=vue"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact&theme=vue" /><img src="https://github-readme-stats.vercel.app/api?username=daniel4-scratch&show_icons=true&theme=vue"/>
 
 I'm **Daniel4-Scratch** also know as danielthebanana4. I know .py, .html, .css and more
 
