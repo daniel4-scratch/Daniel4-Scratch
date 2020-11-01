@@ -1,12 +1,7 @@
-# Hai there!
+<img src="https://u.cubeupload.com/DanielBanana4/DanielThebanana4.png">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact" />
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SnapForks&repo=SnapForks)](https://github.com/SnapForks/SnapForks)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniel4-Scratch&repo=JuiceBox)](https://github.com/SnapForks/SnapForks)
-
 I'm **Daniel4-Scratch** also know as danielthebanana4. I know .py, .html, .css and more
-
-*Needs help styling xml*
 
 [Information](https://daniel4-scratch.github.io/Info/) for my repos
 
@@ -21,7 +16,7 @@ Programs I most use in order.
 <ul>
   <li>CSS (Expert!)</li>
   <li>HTML (Expert!)</li>
-  <li>JavaScript and JSON (<b>Noob</b>)</li>
+  <li>JavaScript and JSON (Not so good at it)</li>
   <li>Python</li>
   <li><a href="https://dpla-s.github.io/about" target="_newtab">Cope/DPLA</a> ;)</li>
 </ul>
