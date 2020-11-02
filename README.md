@@ -7,9 +7,9 @@ I'm **Daniel4-Scratch** also know as danielthebanana4. I know .py, .html, .css a
 * ✍️ I am working on Cope and SnapForks
 * 📚 I am learning Python (Tutored) and Javascript (Self-taught).
 * 🛠 I mainly bulid websites with HTML and CSS.
-* ✉️ How to reach me:
-i. Open an issue here
-ii. The Snapwiki on my talk page
-iii. Email: mineminecraftpe687@gmail.com
+* ✉️ How to reach me:<br>
+&nbsp;&nbsp;i. Open an issue here<br>
+&nbsp;&nbsp;ii. The Snapwiki on my talk page<br>
+&nbsp;&nbsp;iii. Email: mineminecraftpe687@gmail.com<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Daniel4-Scratch?label=Followers&style=social)](https://github.com/Daniel4-Scratch?tab=followers)
