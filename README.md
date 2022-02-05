@@ -1,6 +1,6 @@
 <h2><center>Henlo There</center></h2>
 
-<img src="banner3.png" align="left" width="60" height="416"> 
+<img src="banner3.png" align="left" width="60" height="416" style="border-radius:8px;"> 
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=x5zh4w7pax39fdmzs3nipo4gl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="307" > 
 
