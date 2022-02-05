@@ -8,4 +8,4 @@
 
 
 <br><br><br><br><br><br><br><br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel4-scratch&layout=compact&theme=radical"  align="right" width="419">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel4-scratch&layout=compact&theme=radical&border_radius=8&hide_border=true&bg_color=1a1c1f&title_color=ffffff&text_color=ffffff"  align="right" width="419">
