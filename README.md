@@ -12,6 +12,6 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 Hi, im daniel4-scratch! ヾ(☆▽☆)<br>
-🧐I mainly code html and css (with a touc of javascript.). Basicly im a web developer.<br>
-😛I like hard-bass
-🤯And im always looking for memes
+┐(︶▽︶)┌ I mainly code html and css (with a touch of javascript.). Basicly im a web developer.<br>
+I like hard-bass ♬♫♪◖(● o ●)◗♪♫♬<br>
+o(≧▽≦)o And im always looking for memes
