@@ -1,4 +1,4 @@
-<h2><center>Henlo There</center></h2>
+<h2><center>Hello There</center></h2>
 
 <img src="banner3.png" align="left" width="60" height="416" style="border-radius:8px;"> 
 
