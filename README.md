@@ -17,3 +17,4 @@ Hi, im daniel4-scratch! ヾ(☆▽☆)<br>
 I like hard-bass ♬♫♪◖(● o ●)◗♪♫♬<br>
 o(≧▽≦)o And im always looking for memes <img src="https://git.io/Doge">
 </p>
+<img src="https://komarev.com/ghpvc/?username=daniel4-scratch&label=Profile%20views&color=0e75b6&style=flat" alt="daniel4-scratch" />
