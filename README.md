@@ -2,7 +2,7 @@
 
 <img src="banner4.png" align="left" width="60" height="416" style="border-radius:8px;"> 
 
-<a href="https://open.spotify.com/playlist/167J17OzkUqBVrvgx00UCj?si=5b5025d703f54244"><img src="https://spotify-github-profile.vercel.app/api/view?uid=x5zh4w7pax39fdmzs3nipo4gl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=x5zh4w7pax39fdmzs3nipo4gl&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=x5zh4w7pax39fdmzs3nipo4gl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right" width="306" > </a>
 
 <a href ="https://discord.com/users/853820912628269088"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/853820912628269088?bg=121212" width="418"></a>
 
