@@ -24,7 +24,7 @@ o(≧▽≦)o And im always looking for memes <img src="https://git.io/Doge">
 <a href="https://stackoverflow.com/users/13991019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13991019" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/daniel4-scratch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daniel4-scratch" height="30" width="40" /></a>
   <a href="https://www.twitch.tv/daniel4_scratch" target="blank"><img align="center" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" alt="daniel4-scratch" height="30" width="30" /></a>
-<a href="https://discord.gg/mxAqDMDmqE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
+<a href="https://discord.com/users/853820912628269088" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
