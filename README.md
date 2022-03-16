@@ -25,6 +25,7 @@ o(≧▽≦)o And im always looking for memes <img src="https://git.io/Doge">
 <a href="https://www.youtube.com/c/daniel4-scratch" target="blank"><img align="center" src="https://www.youtube.com/s/desktop/ef96fcf5/img/favicon_144x144.png" alt="daniel4-scratch" height="40" width="40" /></a>
   <a href="https://www.twitch.tv/daniel4_scratch" target="blank"><img align="center" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" alt="daniel4-scratch" height="30" width="30" /></a>
 <a href="https://discord.com/users/853820912628269088" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
+ <a href="https://wasteof.money" target="blank"><img align="center" src="https://cdn.glitch.global/68164964-5b1f-4bad-9134-fc5644d22356/Wasteof.money.png?v=1647423710759" alt="Wasteof.money" height="20" width="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
