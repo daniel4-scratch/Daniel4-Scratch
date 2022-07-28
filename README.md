@@ -12,10 +12,9 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">
-Hi, im daniel4-scratch! ヾ(☆▽☆)<br>
-┐(︶▽︶)┌ I mainly code html and css (with a touch of javascript.). Basicly im a web developer.<br>
-I like hard-bass ♬♫♪◖(● o ●)◗♪♫♬<br>
-o(≧▽≦)o And im always looking for memes <img src="https://git.io/Doge">
+Hi, I'm Daniel4-scratch! <br>
+I'm a 13 y/o Australian Web Developer<br>
+I know HTML, CSS, JS and Python. Im expanding my knowledge in computer programing.<br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
