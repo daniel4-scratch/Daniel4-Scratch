@@ -8,4 +8,6 @@ I know HTML, CSS, JS and Python. Im expanding my knowledge in computer programin
 </p>
 <p align="center">
 <a href="https://discord.com/users/853820912628269088" target="blank"><img align="center" src="https://api.daniel4scratch.repl.co/files?path=discord.png" alt="mxAqDMDmqE" height="50" width="50" /></a>
+  <a href="https://www.postlit.dev/users/danielthebanana4/" target="blank"><img align="center" src="https://api.daniel4scratch.repl.co/files?path=postlit.png" alt="mxAqDMDmqE" height="50" width="50" /></a>
+
 </p>
