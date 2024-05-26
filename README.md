@@ -3,7 +3,7 @@
 <img src="Group 60.png" style="border-radius:8px;"> 
 <p align="center">
 Hi, I'm Daniel4-scratch! <br>
-I'm a 14 y/o Australian Web Developer<br>
+I'm a 15 y/o Australian Web Developer<br>
 I know HTML, CSS, JS and Python. Im expanding my knowledge in computer programing.<br>
 </p>
 <p align="center">
