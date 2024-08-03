@@ -1,10 +1,11 @@
 
 
-<img src="Group 60.png" style="border-radius:8px;"> 
+<img src="Group 60.png" style="border-radius:8px;">
+<p></p> 
 <p align="center">
 Hi, I'm Daniel4-scratch! <br>
-I'm a 15 y/o Australian mainly self-taught developer<br>
-I know HTML, CSS, JS, Python, Lua and currently pursuing c/c#/c++
+I'm a 15 y/o Australian mainly self-taught developer.<br>
+I know HTML, CSS, JS, Python, Lua and currently pursuing c/c#/c++.
 </p>
 <p align="center">
 <a href="https://discord.com/users/853820912628269088" target="blank"><img align="center" src="https://daniel4-scratch.is-a.dev/assets/icons/discord.png" alt="discord" height="50" width="50" /></a>
