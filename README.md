@@ -4,7 +4,7 @@
 <p></p> 
 <p align="center">
 Hi, I'm Daniel4-scratch! <br>
-I'm a 15 y/o Australian mainly self-taught developer.<br>
+I'm a 16 y/o Australian mainly self-taught developer.<br>
 I know HTML, CSS, JS, Python, Lua and currently pursuing c/c++.
 </p>
 <p align="center">
