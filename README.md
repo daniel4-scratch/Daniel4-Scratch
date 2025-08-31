@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact&hide=html,css" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel4-Scratch&layout=compact&hide=html,css,brainfuck" align="left">
 <!--<img src="Group 60.png" style="border-radius:8px;">
 <p></p>-->
 <p align="left">
