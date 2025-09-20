@@ -3,7 +3,7 @@
 <!--<img src="Group 60.png" style="border-radius:8px;">
 <p></p>-->
 <p align="left">
-I know JS, Python, Lua and currently pursuing c/c++ and nodejs.<br>
+I know JS, Python, Lua and currently pursuing c++<br>
 Contact me on discord for the fastest response @<code>daniel4scratch</code>. I don't check my emails as much
 </p>
 <p align="center">
