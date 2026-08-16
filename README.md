@@ -13,6 +13,6 @@ Contact me on discord for the fastest response @<code>daniel4scratch</code>.
 </p>
 <br><br><br>
 <p align="center">
-The best text editor and ide:<br>
+The best text editor and ide:<br><br>
 <img src="https://files.daniel4scratch.dev/6a78682fe5e3144e0ad1e924/6a81b241890a794943630727" height="50" width="50">
 </p>
