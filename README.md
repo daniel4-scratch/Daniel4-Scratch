@@ -11,7 +11,7 @@ Contact me on discord for the fastest response @<code>daniel4scratch</code>.
 <a href="https://discord.com/users/853820912628269088" target="blank"><img align="center" src="https://files.daniel4scratch.dev/6a78682fe5e3144e0ad1e924/6a81b241890a79494363071a" alt="discord" height="50" width="50" /></a>
 <a href="https://youtube.com/@daniel4-dev" target="blank"><img align="center" src="https://files.daniel4scratch.dev/6a78682fe5e3144e0ad1e924/6a81b241890a794943630728" alt="youtube" height="50" width="50" /></a>
 </p>
-<br>
+<br><br><br>
 <p align="center">
 The best text editor and ide:<br>
 <img src="https://files.daniel4scratch.dev/6a78682fe5e3144e0ad1e924/6a81b241890a794943630727" height="50" width="50">
